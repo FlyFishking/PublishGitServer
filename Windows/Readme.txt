@@ -8,7 +8,7 @@
 /********************** gitblit config **************************/
 1、Copy gitblit.properties file to gitblit-1.*/data folder
 2、Run  gitblit-1.*/gitblit.cmd to check gitblit site run wheather right or not
-   gitblit site is setting in the step.1, e.g.http://localhost:58909
+   gitblit site is setting in the step.1, e.g.http://localhost:XXXX
 3、Run installService.cmd to add to windowsservice and set it run automaticly
    Tips:
     A、Befor you run the installService.cmd file you should add some node like SET CD=C:\Git\gitblit-1.8.0 after SET ARCH=amd64
